@@ -1,6 +1,6 @@
 # Prototype · Juno
 
-**Public Share URL:** https://rocketship-prd-wizard.lovable.app
+**Public Share URL:** https://lovable.dev/projects/e0be2e48-c7ec-4bc2-b546-c03f8423b727?utm_source=lovable-badge&utm_campaign=badge-wording-disabled
 
 ## What it demonstrates
 
