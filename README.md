@@ -2,7 +2,7 @@
 
 > Juno turns one customer's CSV export crash into a cited, human-reviewed priority call, weighing it against RocketShip's strategy, capacity, and roadmap, without ever taking action on its own.
 
-_Cyndi Lozano + AI Product Management_
+_Cyndi Lozano + AI Product Management + September 2026_
 
 This repo is my final project for the AI Product Management Certification — **From CSV Crash to Cited Priority: Specifying Juno's Triage Harness**. Each module’s artefact lives in its own folder; this README is the dashboard and the pitch.
 
