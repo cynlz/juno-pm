@@ -11,12 +11,12 @@ This repo is my final project for the AI Product Management Certification — **
 ## Module artefacts
 
 ### M1 · Prompting
-- **System prompt** — [`skill-file.md`](skill-file.md)
-- **Prototype** — https://lovable.dev/projects/juno-pm-p0-triage-prototype
+- **System prompt** — [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
+- **Prototype** — https://rocketship-prd-wizard.lovable.app
 
 ### M2 · Strategy
-- **Decision matrix** — [`prototype.md`](prototype.md)
-- **AI Strategy one-pager** — [`prototype.md`](prototype.md)
+- **Decision matrix** — [`02-prototype/prototype.md`](02-prototype/prototype.md)
+- **AI Strategy one-pager** — [`02-prototype/prototype.md`](02-prototype/prototype.md)
 
 ### M3 · RAG / AI PRD
 - **AI PRD** — [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
